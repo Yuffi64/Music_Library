@@ -6,3 +6,12 @@
 }
 
 
+.border-box{
+    border-block: center;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+
+}
+

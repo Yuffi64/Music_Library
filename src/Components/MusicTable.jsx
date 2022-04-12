@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+
 const MusicTable = (props)=> {
     
 
@@ -8,7 +9,7 @@ const MusicTable = (props)=> {
         <div>
             <table>
                 <thread>
-                    <tr>
+                    <tr className='form-group'>
                         <th>Title</th>
                         <th>Artist</th>
                         <th>Album</th>
